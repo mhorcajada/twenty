@@ -1054,6 +1054,11 @@ msgstr "Bolivie 🇧🇴"
 msgid "Book a call"
 msgstr "Réserver un appel"
 
+#. js-lingui-id: bOwPjT
+#: src/sections/product-stepper/LayoutVisual/data/layout-data.ts
+msgid "Boolean"
+msgstr ""
+
 #. js-lingui-id: Wzdd8u
 #: src/partner-application/data/partner-country-options.ts
 msgid "Bosnia & Herzegovina 🇧🇦"
@@ -1901,9 +1906,9 @@ msgstr "Schéma du modèle de données"
 msgid "Data modeling · Migrations · No-code workflows · Dashboards · SSO/SCIM · Integrations"
 msgstr "Modélisation des données · Migrations · Workflows no-code · Tableaux de bord · SSO/SCIM · Intégrations"
 
-#. js-lingui-id: Wv92XG
+#. js-lingui-id: JvUngl
 #: src/sections/product-stepper/LayoutVisual/data/layout-data.ts
-msgid "Date and Time"
+msgid "Date & Time"
 msgstr ""
 
 #. js-lingui-id: dSuMNg
@@ -2472,11 +2477,6 @@ msgstr ""
 msgid "Fields"
 msgstr ""
 
-#. js-lingui-id: 9k2rvq
-#: src/sections/product-stepper/LayoutVisual/LayoutVisual.tsx
-msgid "Fields widget"
-msgstr ""
-
 #. js-lingui-id: z+q1Th
 #: src/partner-application/data/partner-country-options.ts
 msgid "Fiji 🇫🇯"
@@ -2740,6 +2740,7 @@ msgid "Gambia 🇬🇲"
 msgstr "Gambie 🇬🇲"
 
 #. js-lingui-id: Weq9zb
+#: src/sections/product-stepper/LayoutVisual/LayoutVisual.tsx
 #: src/sections/product-stepper/LayoutVisual/LayoutVisual.tsx
 #: src/sections/product-stepper/LayoutVisual/data/layout-data.ts
 msgid "General"
@@ -3144,7 +3145,6 @@ msgid "Indonesian"
 msgstr "Indonésien"
 
 #. js-lingui-id: S8gy7K
-#: src/sections/product-stepper/LayoutVisual/LayoutVisual.tsx
 #: src/sections/case-study-detail/CaseStudyHighlights.tsx
 msgid "Industry"
 msgstr "Secteur"
@@ -4747,6 +4747,7 @@ msgid "Revamped Side Panel"
 msgstr "Panneau latéral repensé"
 
 #. js-lingui-id: 8YBH95
+#: src/sections/product-stepper/LayoutVisual/LayoutVisual.tsx
 #: src/sections/product-stepper/LayoutVisual/data/layout-data.ts
 msgid "Revenue"
 msgstr ""
@@ -5848,11 +5849,6 @@ msgstr ""
 #: src/partner-application/data/partner-country-options.ts
 msgid "Trinidad & Tobago 🇹🇹"
 msgstr "Trinité-et-Tobago 🇹🇹"
-
-#. js-lingui-id: rfp3gh
-#: src/sections/product-stepper/LayoutVisual/data/layout-data.ts
-msgid "True/False"
-msgstr ""
 
 #. js-lingui-id: tdZpCd
 #: src/sections/footer/footer.data.ts
