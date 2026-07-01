@@ -225,11 +225,6 @@ export class ClientConfigService {
             'ONBOARDING_IMPORT_CONTACTS_CREDITS_REWARD',
           ),
         ),
-        inviteTeamMaxCreditsReward: toDisplayCredits(
-          this.twentyConfigService.get(
-            'ONBOARDING_INVITE_TEAM_MAX_CREDITS_REWARD',
-          ),
-        ),
         inviteTeamCreditsRewardPerUser: toDisplayCredits(
           this.twentyConfigService.get(
             'ONBOARDING_INVITE_TEAM_CREDITS_REWARD_PER_USER',
@@ -238,6 +233,11 @@ export class ClientConfigService {
         upgradeCreditsReward: toDisplayCredits(
           this.twentyConfigService.get(
             'BILLING_FREE_WORKFLOW_CREDITS_FOR_TRIAL_PERIOD_WITH_CREDIT_CARD',
+          ),
+        ),
+        installAppsCreditsRewardPerApp: toDisplayCredits(
+          this.twentyConfigService.get(
+            'ONBOARDING_INSTALL_APPS_CREDITS_REWARD_PER_APP',
           ),
         ),
       },
